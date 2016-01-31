@@ -92,3 +92,4 @@ Requirements for some features:
 
 - CUDA support
 - Testing utilities: py.test
+http://www.slideshare.net/ChristopherMoody3/word2vec-lda-and-introducing-a-new-hybrid-algorithm-lda2vec-57135994
